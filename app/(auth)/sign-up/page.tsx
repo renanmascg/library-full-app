@@ -11,7 +11,7 @@ const Page = () => (
     defaultValues={{
       email: "",
       password: "",
-      fullName: "",
+      fullname: "",
       universityId: 0,
       universityCard: "",
     }}
